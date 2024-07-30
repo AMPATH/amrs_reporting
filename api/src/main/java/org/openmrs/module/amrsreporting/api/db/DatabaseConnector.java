@@ -8,9 +8,9 @@ public class DatabaseConnector {
 	
 	private static final String DB_URL = "jdbc:mysql://10.50.80.24:3306/amrs_etl?zeroDateTimeBehavior=convertToNull";
 	
-	private static final String USER = "erugut";
+	private static final String USER = "username here";
 	
-	private static final String PASSWORD = "Ampath@2020";
+	private static final String PASSWORD = "pass here";
 	
 	public static Connection getConnection() throws SQLException {
 		return DriverManager.getConnection(DB_URL, USER, PASSWORD);
