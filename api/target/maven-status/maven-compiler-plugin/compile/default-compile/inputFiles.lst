@@ -1,0 +1,8 @@
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/api/impl/AmrsreportingServiceImpl.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/api/dao/AmrsreportingDao.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/AmrsreportingConfig.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/api/AmrsreportingService.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/AmrsreportingActivator.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/api/db/DatabaseConnector.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/api/utils/ReportRequest.java
+/home/kantush/Desktop/Dev/Ampath/backend/amrsreporting/api/src/main/java/org/openmrs/module/amrsreporting/Item.java

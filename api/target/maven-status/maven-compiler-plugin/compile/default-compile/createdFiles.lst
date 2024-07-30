@@ -1,0 +1,8 @@
+org/openmrs/module/amrsreporting/api/impl/AmrsreportingServiceImpl.class
+org/openmrs/module/amrsreporting/api/AmrsreportingService.class
+org/openmrs/module/amrsreporting/Item.class
+org/openmrs/module/amrsreporting/api/db/DatabaseConnector.class
+org/openmrs/module/amrsreporting/AmrsreportingConfig.class
+org/openmrs/module/amrsreporting/api/utils/ReportRequest.class
+org/openmrs/module/amrsreporting/AmrsreportingActivator.class
+org/openmrs/module/amrsreporting/api/dao/AmrsreportingDao.class
