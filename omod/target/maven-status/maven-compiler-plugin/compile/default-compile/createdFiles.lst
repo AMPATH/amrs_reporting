@@ -1,0 +1,3 @@
+org/openmrs/module/amrsreporting/fragment/controller/UsersFragmentController.class
+org/openmrs/module/amrsreporting/web/controller/AmrsReportingController.class
+org/openmrs/module/amrsreporting/extension/html/AdminList.class

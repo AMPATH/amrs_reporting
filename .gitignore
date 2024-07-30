@@ -1,0 +1,3 @@
+# Sensitive data
+api/src/main/resources/db.properties
+.env
